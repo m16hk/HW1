@@ -18,6 +18,7 @@ Additions (Floats)
 Elapsed time = 19 ms 193386 ticks
 
 Ratio (Addition) = 0.5621399687671289
+
 Direct Multiplication
 Elapsed time = 8 ms 87752 ticks
 
